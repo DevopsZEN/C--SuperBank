@@ -1,0 +1,11 @@
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.exe
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.deps.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.runtimeconfig.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.runtimeconfig.dev.json
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\bin\Debug\netcoreapp3.1\mySuperBank.pdb
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.csprojAssemblyReference.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.AssemblyInfoInputs.cache
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.AssemblyInfo.cs
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.dll
+C:\Users\devop\Documents\Learning Path\Programming\C#\mySuperBank\mySuperBank\obj\Debug\netcoreapp3.1\mySuperBank.pdb
